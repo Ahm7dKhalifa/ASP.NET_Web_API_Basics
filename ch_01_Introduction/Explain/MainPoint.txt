@@ -1,0 +1,74 @@
+b=>
+https://msdn.microsoft.com/en-us/library/dn448365(v=vs.118).aspx
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api
+
+###########################
+what is asp.net web api ?
+--------------
+b
+##############################
+benfits of http
+----------------
+b
+##############################
+what is model
+-------------
+b
+###############################
+what is the function of asp.net web api
+--------------
+b
+#############################
+what is web api controller
+------------------
+b
+###############################
+what is difference between web api controller 
+and mvc controller
+-------------------
+b
+#################################
+*******************************************
+*********************************************
+**********************************************
+Routing in asp.net wep api 
+***********************************************
+***********************************************
+**********************************************
+b =>
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/web-api-routing-and-actions/routing-in-aspnet-web-api
+####################################
+what is the difference between routing 
+in asp.net web api and asp.net mvc
+----------------------
+b
+##############################
+routing table
+------------------
+- how to determin the controller 
+- how to determin the action 
+#######################################
+-Routing Variations
+#######################################
+
+####################
+ HTTP Methods
+###################
+- how to use them instead of actions names start with http method
+- how to use multi http method with one action
+
+####################
+Routing by Action Name
+####################
+
+********************************
+********************************
+Calling the Web API with Javascript and jQuery
+*********************************
+*********************************
+b =>
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api
+
+
+
+
