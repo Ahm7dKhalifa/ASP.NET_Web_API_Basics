@@ -1,0 +1,23 @@
+b=>
+https://www.youtube.com/watch?v=GbKBcDX8DDQ&list=PL6n9fhu94yhW7yoUOGNOfHurUE6bpOO2b&index=3
+#########################
+1.what are action can be performed into database ?
+- and the relation between them and http verbs
+----------------------
+Q/A
+
+########################
+2.define :
+- request verbs
+- request header
+- request body
+- responce body
+- responce status code
+#########################
+-Q/A
+ 
+
+##########################
+3.EXAMPLES FOR EVERY METHODS
+##########################
+-Q/A
