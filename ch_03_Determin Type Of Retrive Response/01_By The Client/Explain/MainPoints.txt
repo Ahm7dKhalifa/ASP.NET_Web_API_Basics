@@ -1,0 +1,73 @@
+############################################################
+1.how to determin the type of Retrive Data from Client app 
+############################################################
+A request that is sent to the server includes an Accept header. 
+Using the Accept header the client can specify the format for the response. 
+For example
+
+Accept: application/xml returns XML
+Accept: application/json returns JSON
+
+Depending on the Accept header value in the request, the server sends the response. 
+This is called Content Negotiation. 
+-Q/A
+
+
+####################################################
+2.what does the Web API do when we request for data in a specific format ?
+####################################################
+So 
+The Web API controller generates the data that we want to send to the client. 
+For example, if you have asked for list of employees. 
+The controller generates the list of employees, 
+and hands the data to the Web API pipeline
+which then looks at the Accept header and depending on the format that the client has requested, 
+Web API will choose the appropriate formatter. 
+For example, if the client has requested for XML data,
+Web API uses XML formatter. If the client has requested for JSON data, 
+Web API uses JSON formatter. These formatters are called Media type formatters.
+
+
+##########################################################
+3.WHAT IS MEAN BY ASP.NET Web API is greatly extensible.
+##########################################################
+This means we can also plugin our own formatters, for custom formatting the data.
+
+#########################################################
+4.Multiple values can also be specified for the Accept header
+######################################################### 
+In this case, the server picks the first formatter which is a JSON formatter and formats the data in JSON.
+Accept: application/xml,application/json
+
+You can also specify quality factor. In the example below, 
+xml has higher quality factor than json, so the server uses XML formatter and formats the data in XML.
+
+application/xml;q=0.8,application/json;q=0.5
+
+########################################################
+5.If you don't specify the Accept header, 
+########################################################
+by default the Web API returns JSON data.
+
+
+#######################################################
+7.what is The formatters
+#######################################################
+The formatters are used by the server for both request and response messages. 
+When the client sends a request to the server,
+ we set the Content-Type header to 
+the appropriate value to let the server know the format of the data that we are sending.
+ For example, if the client is sending JSON data, the Content-Type header is set to application/json. 
+The server knows it is dealing with JSON data, so it uses JSON formatter to convert JSON data to .NET Type. 
+Similarly when a response is being sent from the server to the client, depending on the Accept header value, 
+the appropriate formatter is used to convert .NET type to JSON, XML etc.
+
+
+################################################
+8.SUMMARY
+###############################################
+IN HTTP HEADER :
+- ACCEPT : -> FOR determin the type of retrieve data from the server
+- content-type : -> for set the type of transmiter/receiver data by client or server 
+
+
