@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var ulEmployees = $('#ulEmployees');
+
+            $('#btn').click(function () {
+                $.ajax({
+                    type: 'GET',
+                    // Make sure to change the port number to
+                    // where you have the employee service
+                    // running on your local machine
+                    url: 'http://localhost:50526/api/employees',
+                    dataType: 'jsonp',
+                    success: function (data) {
+                        ulEmployees.empty();
+                        $.each(data, function (index, val) {
+                            var id = val.EmpID;
+                            var fullName = val.Name;
+                            var salary = val.Salary;
+                            ulEmployees.append('<li>' + id + '</li>');
+                            ulEmployees.append('<li>' + fullName + '</li>')
+                            ulEmployees.append('<li>' + salary + '</li>')
+                        });
+                    }
+                });
+            });
+
+            $('#btnClear').click(function () {
+                ulEmployees.empty();
+            });
+        });
+    </script>
+</head>
+
+<body>
+   
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
