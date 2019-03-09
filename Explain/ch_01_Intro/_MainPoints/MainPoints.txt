@@ -1,0 +1,76 @@
+
+
+========================================
+1.what is web api ? 
+========================================
+- q/a
+1- https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api
+2- https://www.tutorialspoint.com/asp.net_mvc/asp.net_mvc_web_api.htm
+3- http://csharp-video-tutorials.blogspot.com/2016/08/what-is-aspnet-web-api.html
+==========================================
+2.what is api ?
+ -different types of api ?
+==========================================
+q/a
+1-https://ffeathers.wordpress.com/2014/02/16/api-types/
+
+==========================================
+3.What are RESTful services
+- RESTful Key Elements
+- Restful Constraints
+- Restful Methods
+- different between http and rest
+==========================================
+q/a
+1- http://csharp-video-tutorials.blogspot.com/2016/08/what-is-aspnet-web-api.html
+2- https://en.wikipedia.org/wiki/Representational_state_transfer
+3- https://www.guru99.com/restful-web-services.html
+4- https://stackoverflow.com/questions/2190836/what-is-the-difference-between-http-and-rest
+5- https://medium.com/extend/what-is-rest-a-simple-explanation-for-beginners-part-2-rest-constraints-129a4b69a582
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+2.
+==========================================
+
+
+==========================================
+2.
+==========================================
+
+
+==========================================
+2.
+==========================================

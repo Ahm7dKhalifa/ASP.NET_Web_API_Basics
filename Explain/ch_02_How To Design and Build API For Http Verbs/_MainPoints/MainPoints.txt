@@ -1,0 +1,79 @@
+
+
+========================================
+1.
+1.1-How To Design and Build API for Different HTTP Verbs
+1.2-How To Return a Correct Responce with a Correct Status Code  
+========================================
+- cources/building-securing-restful-api-aspdotnet
+https://app.pluralsight.com/library/courses/building-securing-restful-api-aspdotnet/
+slides 3
+exercise 3 
+
+==========================================
+2.kudvenkat :
+intro to http-get-put-post-delete
+==========================================
+- q/a
+1- http://csharp-video-tutorials.blogspot.com/2016/08/http-get-put-post-delete.html
+
+==========================================
+3.
+3.1 what is http_status_codes ?
+3.2 first digit categories
+3.3 list of status_codes
+==========================================
+- q/a
+1- https://www.tutorialspoint.com/http/http_status_codes.htm
+2- https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+3- https://www.restapitutorial.com/httpstatuscodes.html
+==========================================
+4.implement post method 
+==========================================
+-q/a
+1- http://csharp-video-tutorials.blogspot.com/2016/09/implementing-post-method-in-aspnet-web_7.html
+
+==========================================
+5.Implementing Delete method
+==========================================
+-q/a
+1- http://csharp-video-tutorials.blogspot.com/2016/09/implementing-delete-method-in-aspnet.html
+
+==========================================
+6.Implementing Put method
+==========================================
+q/a
+1- http://csharp-video-tutorials.blogspot.com/2016/09/implementing-put-method-in-aspnet-web.html
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+2.
+==========================================
+
+
+==========================================
+2.
+==========================================
+
+
+==========================================
+2.
+==========================================

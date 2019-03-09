@@ -1,0 +1,67 @@
+==========================================
+2.Internet Media Types
+==========================================
+-q/a
+1- https://docs.microsoft.com/en-us/aspnet/web-api/overview/formats-and-model-binding/media-formatters
+
+==========================================
+3.Content-Type header
+==========================================
+-q/a --> 2.1
+
+==========================================
+4.Accept header
+==========================================
+-q/a --> 2.1
+
+==========================================
+5. - Web API built-in Formatter
+   - Custom Formatter
+   - Example: Creating a CSV Media Formatter
+==========================================
+-q/a --> 2.1
+
+==========================================
+6.what is formatters ?
+==========================================
+-q/a
+1- https://docs.microsoft.com/en-us/aspnet/web-api/overview/formats-and-model-binding/json-and-xml-serialization
+
+==========================================
+7.JSON Media-Type Formatter
+==========================================
+-q/a --> 6.1
+
+==========================================
+8.JSON Serialization
+  - public properties
+  -[JsonIgnore]
+  -[DataMember]
+  - working with date
+  - Camel Casing
+  - Anonymous and Weakly-Typed Objects
+==========================================
+-q/a --> 6.1
+
+==========================================
+9.XML Media-Type Formatter
+==========================================
+-q/a --> 6.1
+
+==========================================
+10.XML Serialization
+   - public properties
+   - [IgnoreDataMember]
+   - Private and protected members
+   - Read-only properties
+   - naming
+==========================================
+-q/a --> 6.1
+
+
+==========================================
+11.Removing the JSON or XML Formatter
+   - reasons to do that
+   - how 
+==========================================
+-q/a --> 6.1
