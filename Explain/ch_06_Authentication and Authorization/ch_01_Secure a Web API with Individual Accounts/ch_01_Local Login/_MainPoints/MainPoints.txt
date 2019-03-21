@@ -1,0 +1,74 @@
+
+
+========================================
+1.Web API project template gives you three options for authentication
+========================================
+#q/a
+1-https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/individual-accounts-in-web-api
+2-https://docs.microsoft.com/en-us/aspnet/visual-studio/overview/2013/creating-web-projects-in-visual-studio
+==========================================
+2.Individual accounts provide two ways for a user to log in :
+==========================================
+#q/a --> 1.1
+
+==========================================
+3.OAuth2 terminology.
+==========================================
+#q/a --> 1.1
+
+==========================================
+4.Local Login Credential Flow with full example 
+==========================================
+#q/a --> 1.1
+
+==========================================
+5.what is Claims
+==========================================
+#q/a
+1-https://www.codeproject.com/Tips/821772/Claims-And-Token-Based-Authentication-ASP-NET-Web
+2-https://www.future-processing.pl/blog/introduction-to-claims-based-authentication-and-authorization-in-net/
+==========================================
+6.examples on local login :
+==========================================
+#q/a
+1-https://www.c-sharpcorner.com/article/asp-net-mvc-oauth-2-0-rest-web-api-authorization-using-database-first-approach/
+2-http://bitoftech.net/2014/06/01/token-based-authentication-asp-net-web-api-2-owin-asp-net-identity/
+3-https://dzone.com/articles/token-based-authentication-in-angular-6-with-web-a
+4-https://www.ecanarys.com/Blogs/ArticleID/308/Token-Based-Authentication-for-Web-APIs
+
+5- very important : 
+https://www.codeproject.com/Articles/1183150/Securing-ASP-NET-Web-API-using-Custom-Token-Based
+
+6-http://www.sangadjiprabowo.com/post/2017/03/12/customizing-token-based-authentication-oauth-in-asp-net-web-api-with-existing-user-database
+==========================================
+7.
+==========================================
+https://stormpath.com/blog/token-authentication-scalable-user-mgmt
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
