@@ -14,5 +14,5 @@ For Every Topic There are MainPoints.Txt Contain The Questions and Q_A Folder Co
 # Courses or books Folder :
 some of resources and Materials Which I Learn From like slides , pdf , projects. <br/>
 ## I prefer to study The technology from different Resources, especially books and official documents
-most of the Courses is directly free or just free for limited time from <br/>
-Most courses are free of charge directly or for a limited period since participating in the course site. 
+most of the Courses is directly free or just free for a limited period since participating in the course site <br/>
+
