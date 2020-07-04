@@ -13,9 +13,18 @@
 
 ==========================================
 3.OAuth2 terminology.
+- what is OAuth2 ?
+- OAuth Roles :
+   - Resource Owner
+   - Client
+   - Resource Server
+   - Authorization Server
 ==========================================
 #q/a --> 1.1
-
+#resources :
+1- https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+2- https://auth0.com/docs/protocols/oauth2
+3- https://en.wikipedia.org/wiki/OAuth
 ==========================================
 4.Local Login Credential Flow with full example 
 ==========================================
@@ -27,6 +36,7 @@
 #q/a
 1-https://www.codeproject.com/Tips/821772/Claims-And-Token-Based-Authentication-ASP-NET-Web
 2-https://www.future-processing.pl/blog/introduction-to-claims-based-authentication-and-authorization-in-net/
+
 ==========================================
 6.examples on local login :
 ==========================================
@@ -40,6 +50,7 @@
 https://www.codeproject.com/Articles/1183150/Securing-ASP-NET-Web-API-using-Custom-Token-Based
 
 6-http://www.sangadjiprabowo.com/post/2017/03/12/customizing-token-based-authentication-oauth-in-asp-net-web-api-with-existing-user-database
+
 ==========================================
 7.
 ==========================================
